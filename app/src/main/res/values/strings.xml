@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sayan Adak(11901941)</string>
+    <string name="edittext"></string>
+    <string name="separator1" />
+    <string name="RadioButton1">CPP</string>
+    <string name="RadioButton2">JAVA</string>
+    <string name="RadioButton3">PYTHON</string>
+    <string name="RadioButton4">KOTLIN</string>
+    <string name="separator2"></string>
+    <string name="textview2">RADIO BUTTON</string>
+    <string name="textviewtop">EDIT VIEW</string>
+    <string name="textview3">CHECK BOX</string>
+    <string name="checkbox1">PHYSICS</string>
+    <string name="checkbox2">CHEMISTRY</string>
+    <string name="checkbox">MATHS</string>
+    <string name="button">Submit</string>
+    <string name="button2">clear</string>
+    <string name="Button3">clear</string>
+</resources>
